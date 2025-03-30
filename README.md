@@ -16,5 +16,13 @@
 <a href="https://taeseong-site.vercel.app/about/"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=ReadMe&logoColor=white"/></a>
 <a href="mailto:aka404365@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=flip-404&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/flip-404"
+    width="600"
+    height="120"
+  />
+</a>
 </div>
+
+
